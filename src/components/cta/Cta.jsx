@@ -1,9 +1,9 @@
 import React from 'react'
 import './cts.css';
-const Cts = () => {
+const Cta = () => {
     return (
-        <div>Cts</div>
+        <div>Cta</div>
     )
 }
 
-export default Cts
+export default Cta
